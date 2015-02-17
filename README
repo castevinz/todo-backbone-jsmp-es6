@@ -1,0 +1,7 @@
+Serve cold from local web server or install NodeJS [ http://nodejs.org/download/ ] and:
+
+sudo npm install -g serve
+cd card
+serve -p 3333 .
+
+Open http://localhost:3333 in browser and enjoy.
