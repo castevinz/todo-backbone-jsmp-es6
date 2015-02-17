@@ -1,5 +1,10 @@
-Serve cold from local web server or install NodeJS [ http://nodejs.org/download/ ] and:
+Install NodeJS [ http://nodejs.org/download/ ] and:
 
+sudo npm install -g jspm
+
+Launch "jspm install" in root path.
+
+Serve cold from local web server or :
 sudo npm install -g serve
 cd card
 serve -p 3333 .
