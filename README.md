@@ -1,3 +1,9 @@
+# Todo - Backbone + JSPM + ECMAScript 6
+
+From fork of :
+Backbone TodoMVC rewritten using ES6 
+http://addyosmani.github.io/todomvc-backbone-es6
+
 Install NodeJS [ http://nodejs.org/download/ ] and:
 
 sudo npm install -g jspm
