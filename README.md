@@ -11,8 +11,8 @@ sudo npm install -g jspm
 Launch "jspm install" in root path.
 
 Serve cold from local web server or :
-sudo npm install -g serve
-cd card
-serve -p 3333 .
+
+- sudo npm install -g serve
+- serve -p 3333 .
 
 Open http://localhost:3333 in browser and enjoy.
